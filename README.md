@@ -1,6 +1,6 @@
 # QuadTree_in_Python
 this python script implements a quadtree for image creation dependent on single charecter input representation for image sectors.
-+ sign divides images to four equal section named as q1 q2
+plus sign divides images to four equal section named as q1 q2
                                                      q4 q3
 program takes input from standart input.
 
